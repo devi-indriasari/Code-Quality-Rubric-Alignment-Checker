@@ -977,7 +977,7 @@ def render_hero():
         f"""
         <div class="hero-card">
             <div class="hero-title">{APP_NAME}</div>
-            <div class="hero-subtitle">Machine Learning-Assisted Code Quality Rubric Alignment</div>
+            <div class="hero-subtitle">Peer Code Review Tool Berbasis AI untuk Pemeriksaan Keselarasan Komentar Mahasiswa dengan Rubrik Kualitas Kode</div>
             <p class="hero-desc">
                 Aplikasi ini membantu mahasiswa memeriksa apakah komentar peer code review sudah selaras dengan aspek
                 <i>code quality rubric</i>, seperti Variables, Expressions, Control Flow, Comments, Layout and Formatting,
